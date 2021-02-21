@@ -1,0 +1,153 @@
+# LyX 2.3.6.1 generated this file. If you want to make your own
+# modifications you should do them from inside LyX and save.
+
+Format 24
+
+
+#
+# MISC SECTION ######################################
+#
+
+# Group layouts by their category.
+\group_layouts false
+\kbmap true
+\serverpipe "/home/shengdi/.lyx/lyxpipe"
+\user_name "Shengdi Chen"
+\user_email "shc@Thi.nX"
+
+#
+# SCREEN & FONTS SECTION ############################
+#
+
+\screen_zoom 197
+\cursor_follows_scrollbar true
+\cursor_width 2
+\macro_edit_style 1
+\screen_font_roman "Constantia"
+\screen_font_sans "Avenir LT Std"
+\screen_font_typewriter "Source Code Pro"
+\screen_font_sizes 5 7 8 9 10 12 14.4 17.26 20.74 24.88
+\single_close_tab_button true
+
+#
+# COLOR SECTION ###################################
+#
+
+\set_color "cursor" "#ffffff"
+\set_color "background" "#000000"
+\set_color "foreground" "#ede3f7"
+\set_color "selection" "#44475a"
+\set_color "latex" "#bd93f9"
+\set_color "preview" "#000000"
+\set_color "note" "#ffff00"
+\set_color "notebg" "#ffff00"
+\set_color "commentbg" "#faf0e6"
+\set_color "greyedoutbg" "#faf0e6"
+\set_color "shaded" "#55ff00"
+\set_color "listingsbg" "#000000"
+\set_color "urllabel" "#8be9fd"
+\set_color "urltext" "#ede3f7"
+\set_color "depthbar" "#44475a"
+\set_color "language" "#0000ff"
+\set_color "command" "#8be9fd"
+\set_color "special" "#ff5555"
+\set_color "graphicsbg" "#faf0e6"
+\set_color "math" "#ff79c6"
+\set_color "mathbg" "#000000"
+\set_color "mathframe" "#ffffff"
+\set_color "mathcorners" "#ff79c6"
+\set_color "mathline" "#ff79c6"
+\set_color "collapsible" "#ffffff"
+\set_color "collapsibleframe" "#ede3f7"
+\set_color "insetframe" "#cd5c5c"
+\set_color "error" "#ff0000"
+\set_color "changebar" "#0000ff"
+\set_color "tabularline" "#ffffff"
+\set_color "tabularonoffline" "#ede3f7"
+\set_color "newpage" "#ffffff"
+\set_color "pagebreak" "#ffffff"
+\set_color "buttonframe" "#ede3f7"
+\set_color "buttonbg" "#000000"
+\set_color "buttonhoverbg" "#44475a"
+
+#
+# PRINTER SECTION ###################################
+#
+
+
+#
+# TEX SECTION #######################################
+#
+
+
+#
+# FILE SECTION ######################################
+#
+
+\load_session true
+\completion_inline_delay 1
+\completion_inline_math false
+\autocorrection_math true
+\completion_popup_delay 1
+\completion_popup_math false
+\completion_minlength 5
+
+#
+# PLAIN TEXT EXPORT SECTION ##############################
+#
+
+
+#
+# SPELLCHECKER SECTION ##############################
+#
+
+
+#
+# LANGUAGE SUPPORT SECTION ##########################
+#
+
+
+#
+# 2nd MISC SUPPORT SECTION ##########################
+#
+
+
+#
+# FORMATS SECTION ##########################
+#
+
+\format "bmp" "bmp" "BMP" "" "xdg-open" "auto" "" "image/x-bmp"
+\format "dia" "dia" "DIA" "" "auto" "auto" "vector,zipped=native" "application/x-dia-diagram"
+\format "excel" "xls" "Excel spreadsheet" "" "" "auto" "document" "application/vnd.ms-excel"
+\format "fen" "fen" "FEN" "" "auto" "auto" "" ""
+\format "fig" "fig" "FIG" "" "auto" "auto" "vector" "application/x-xfig"
+\format "gif" "gif" "GIF" "" "xdg-open" "auto" "" "image/gif"
+\format "gnumeric" "gnumeric" "Gnumeric spreadsheet" "" "" "auto" "document" "application/x-gnumeric"
+\format "agr" "agr" "Grace" "" "auto" "auto" "vector" ""
+\format "html_table" "html" "HTML Table (for spreadsheets)" "" "" "auto" "document" "text/html"
+\format "jpg" "jpg, jpeg" "JPEG" "" "xdg-open" "auto" "" "image/jpeg"
+\format "excel2" "xlsx" "MS Excel Office Open XML" "" "" "auto" "document" "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+\format "noteedit" "not" "Noteedit" "" "auto" "auto" "vector" ""
+\format "oocalc" "ods" "OpenDocument spreadsheet" "" "" "auto" "document" "application/vnd.oasis.opendocument.spreadsheet"
+\format "pbm" "pbm" "PBM" "" "xdg-open" "auto" "" "image/x-portable-bitmap"
+\format "pdf5" "pdf" "PDF (LuaTeX)" "u" "evince" "" "document,vector,menu=export" ""
+\format "pgm" "pgm" "PGM" "" "xdg-open" "auto" "" "image/x-portable-graymap"
+\format "png" "png" "PNG" "" "xdg-open" "auto" "" "image/x-png"
+\format "ppm" "ppm" "PPM" "" "xdg-open" "auto" "" "image/x-portable-pixmap"
+\format "svg" "svg" "SVG" "" "auto" "auto" "vector" "image/svg+xml"
+\format "svgz" "svgz" "SVG (compressed)" "" "auto" "auto" "vector,zipped=native" ""
+\format "tgif" "obj, tgo" "Tgif" "" "auto" "auto" "vector" "application/x-tgif"
+\format "tiff" "tif" "TIFF" "" "xdg-open" "auto" "" "image/tiff"
+\format "xbm" "xbm" "XBM" "" "xdg-open" "auto" "" "image/x-xbitmap"
+\format "xpm" "xpm" "XPM" "" "xdg-open" "auto" "" "image/x-xpixmap"
+\default_otf_view_format pdf5
+
+#
+# CONVERTERS SECTION ##########################
+#
+
+
+#
+# COPIERS SECTION ##########################
+#
+
