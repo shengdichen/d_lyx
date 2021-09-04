@@ -10,7 +10,7 @@ Format 24
 
 # Group layouts by their category.
 \group_layouts false
-\kbmap true
+\kbmap false
 \kbmap_primary "american"
 \kbmap_secondary "european"
 \serverpipe "/home/shengdi/.lyx/lyxpipe"
