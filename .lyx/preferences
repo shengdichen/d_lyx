@@ -24,6 +24,7 @@ Format 24
 \screen_zoom 197
 \cursor_follows_scrollbar true
 \cursor_width 2
+\paragraph_markers true
 \macro_edit_style 1
 \screen_font_roman "Constantia"
 \screen_font_sans "Avenir LT Std"
