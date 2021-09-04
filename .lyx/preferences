@@ -141,6 +141,7 @@ Format 24
 \format "xbm" "xbm" "XBM" "" "xdg-open" "auto" "" "image/x-xbitmap"
 \format "xpm" "xpm" "XPM" "" "xdg-open" "auto" "" "image/x-xpixmap"
 \default_otf_view_format pdf5
+\default_view_format pdf5
 
 #
 # CONVERTERS SECTION ##########################
