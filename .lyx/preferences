@@ -12,7 +12,7 @@ Format 24
 \group_layouts false
 \kbmap_primary "american"
 \kbmap_secondary "european"
-\serverpipe "/home/shengdi/.lyx/lyxpipe"
+\serverpipe "~/.lyx/lyxpipe"
 \user_name "Shengdi Chen"
 \user_email "shc@Thi.nX"
 
