@@ -1,0 +1,1052 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass amsbook
+\use_default_options true
+\begin_removed_modules
+theorems-ams
+\end_removed_modules
+\begin_modules
+eqs-within-sections
+figs-within-sections
+tabs-within-sections
+theorems-ams-chap-bytype
+theorems-ams-extended-chap-bytype
+algorithm2e
+customHeadersFooters
+enumitem
+logicalmkup
+todonotes
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "Constantia"
+\font_sans "default" "Avenir LT Std"
+\font_typewriter "default" "Source Code Pro"
+\font_math "auto" "default"
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype true
+\use_dash_ligatures true
+\graphics default
+\default_output_format pdf5
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize letterpaper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine biblatex
+\cite_engine_type numerical
+\biblio_options entryhead=true, entrykey=false
+\biblatex_bibstyle reading
+\biblatex_citestyle alphabetic-verb
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 1in
+\headsep 0.3in
+\footskip 0.3in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side right
+\quotes_style danish
+\dynamic_quotes 1
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The Asterism of All
+\end_layout
+
+\begin_layout Author
+Shengdi Chen
+\end_layout
+
+\begin_layout Date
+2020.10.09
+\end_layout
+
+\begin_layout Abstract
+At the Dawn of 2020, it has been realized that massive waste is incurred
+ due to repeated lookup of similar information across difference reference
+ sites.
+\end_layout
+
+\begin_layout Abstract
+The Asterism-Project, then referred to as the Collosar-Project is officially
+ created in October, 2020 in an initial effort purely to preserve fragments
+ of knowledge in the academia milieu at the moment of the most familiarity
+ with such for rapid future look-up.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+As the practicality and value of the enterprise became evident in the ensuing
+ months, the Asterism-Project quickly received massive refactoring and was
+ promptly expanded to include three instrinic structural components, or
+ branches in its parlance, the Informatics, the Mathematics and the Linguistics.
+\end_layout
+
+\begin_layout Abstract
+Perhaps the least known of, yet conceived by its creator as the greatest
+ break-through in cognitive optimization is the internal system of skills
+ acquition, applicable to any form of knowledge and eligable for infinite
+ processing of such, spanning from acquisition over consolidation to reconstruct
+ion.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+The Asterism-Project is considered of immense potential and is administered
+ under strict confidentiality.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Collosar
+\end_layout
+
+\begin_layout Part
+Veritas
+\end_layout
+
+\begin_layout Section
+To
+\end_layout
+
+\begin_layout Itemize
+My Parents
+\end_layout
+
+\begin_layout Itemize
+Rowan Atkinson, for the smiles and nights of sound sleep
+\end_layout
+
+\begin_layout Itemize
+Jascha Heifetz, who demonstrated artistic perfection
+\end_layout
+
+\begin_layout Itemize
+Glenn Gould, whose Bach helped cleanse my soul many an early morning.
+\end_layout
+
+\begin_layout Section
+Preface
+\end_layout
+
+\begin_layout Standard
+As a person of science, I believe that the ultimate pursuit of my life is
+ the Truth.
+ When we see the word 
+\begin_inset Quotes xld
+\end_inset
+
+truth
+\begin_inset Quotes xrd
+\end_inset
+
+ alone, it does not appear to hold much weight.
+ But I am convinced that in lieu of one simple word, the combination 
+\begin_inset Quotes xld
+\end_inset
+
+the Truth
+\begin_inset Quotes xrd
+\end_inset
+
+ carries much more weight.
+\end_layout
+
+\begin_layout Standard
+Throughout the history of mankind, the trajectory of its scientific achievements
+ has always been driven by the pursuit of 
+\begin_inset Quotes xld
+\end_inset
+
+the Truth
+\begin_inset Quotes xrd
+\end_inset
+
+.
+ We see scientists give their life to defend 
+\begin_inset Quotes xld
+\end_inset
+
+the Truth
+\begin_inset Quotes xrd
+\end_inset
+
+ in front of greater powers such as the church or the government.
+ We see entire careers being dedicated to uncover 
+\begin_inset Quotes xld
+\end_inset
+
+the Truth
+\begin_inset Quotes xrd
+\end_inset
+
+.
+ The counting of examples does not seem to have an end.
+\end_layout
+
+\begin_layout Standard
+I believe that, the pursuit of the Truth is a conscious decision made at
+ early stages of one's life.
+ It is also a character, or rather, a quality in a select few to decide
+ for this cause.
+ It is a cause that demands nothing less than the most physically challenging
+ or mentally taxing activies known to the mankind.
+ It is a journey of traversal through the vast volume of historical findings
+ of the particular field, catching up with the status-quo and envisioning
+ the future paths of research.
+ The pursuit of the truth demands continuous presence of mind.
+ Thus the physical challenge.
+ The pursuit of the Truth is also non-deterministic, i.e., no guarantee exists
+ a priori when one would be at the end of the pursuit.
+ There even is no explicit ensurance that one might necessarily uncover
+ the Truth.
+\end_layout
+
+\begin_layout Standard
+It would seem that one is thus chasing after something that might be non-existen
+t.
+ But to determine that the Truth does not exist is also non-trivial.
+ In fact, I shall argue that the non-existence proof of the Truth, if such
+ is at all possible, would stem from complete dedication of trial and error
+ of attempting to find the Truth, and then through magical constellations,
+ the lightning strike that delievers this proof.
+ To show that the Truth does not exist, therefore demands no less dedication
+ to the pursuit of the Truth itself.
+ In fact, experience from Mathematics have shown that an existence proof
+ is generally much easier to deliever than one arguing non-existence.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Informatics
+\end_layout
+
+\begin_layout Section
+Language Specifics
+\end_layout
+
+\begin_layout Subsection
+Basics
+\end_layout
+
+\begin_layout Subsubsection
+types
+\end_layout
+
+\begin_layout Subsubsection
+variables
+\end_layout
+
+\begin_layout Subsection
+Control Structures
+\end_layout
+
+\begin_layout Subsubsection
+Decision
+\end_layout
+
+\begin_layout Subsubsection
+Loop
+\end_layout
+
+\begin_layout Subsection
+splitting
+\end_layout
+
+\begin_layout Subsubsection
+split into functions
+\end_layout
+
+\begin_layout Subsubsection
+split into multiple files
+\end_layout
+
+\begin_layout Subsection
+Interfacing with OS
+\end_layout
+
+\begin_layout Subsubsection
+interacting with files
+\end_layout
+
+\begin_layout Subsubsection
+taking command line arguments
+\end_layout
+
+\begin_layout Section
+Pure Informatics
+\end_layout
+
+\begin_layout Subsection
+Data Structures
+\end_layout
+
+\begin_layout Subsubsection
+Containers
+\end_layout
+
+\begin_layout Subsubsection
+Trees
+\end_layout
+
+\begin_layout Subsection
+Algorithms
+\end_layout
+
+\begin_layout Subsubsection
+Search
+\end_layout
+
+\begin_layout Subsubsection
+Sorting
+\end_layout
+
+\begin_layout Subsection
+Data Banks
+\end_layout
+
+\begin_layout Subsection
+Networking
+\end_layout
+
+\begin_layout Section
+High-Performance
+\end_layout
+
+\begin_layout Subsection
+Cache
+\end_layout
+
+\begin_layout Subsection
+Threading
+\end_layout
+
+\begin_layout Section
+ML
+\end_layout
+
+\begin_layout Subsection
+The fundamentals
+\end_layout
+
+\begin_layout Subsubsection
+Linear Problem
+\end_layout
+
+\begin_layout Subsubsection
+Beyond Linearity
+\end_layout
+
+\begin_layout Subsection
+Deep Learning
+\end_layout
+
+\begin_layout Subsubsection
+Foundamentals of Neural Networks
+\end_layout
+
+\begin_layout Subsection
+Statistical Learning
+\end_layout
+
+\begin_layout Subsubsection
+entropy
+\end_layout
+
+\begin_layout Subsubsection
+The algorithm is the model, i.e., we learn the algorithm
+\end_layout
+
+\begin_layout Subsubsection
+The model is based on random var input, thus, we should output a distribution,
+ not a single output.
+\end_layout
+
+\begin_layout Section
+Systems
+\end_layout
+
+\begin_layout Subsection
+Command-line Utilities
+\end_layout
+
+\begin_layout Subsubsection
+Bourne-Shells
+\end_layout
+
+\begin_layout Subsubsection
+git
+\end_layout
+
+\begin_layout Subsubsection
+editors
+\end_layout
+
+\begin_layout Subsection
+Arch
+\end_layout
+
+\begin_layout Subsubsection
+Installing from another repo
+\end_layout
+
+\begin_layout Definition
+Adding another repo
+\end_layout
+
+\begin_layout Definition
+Packages may be installed from a repo other than the official ones.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+modify 
+\family typewriter
+/etc/pacman.conf
+\family default
+
+\begin_inset listings
+inline false
+status open
+
+\begin_layout Plain Layout
+
+# herecura Repository for Vivaldi Browser
+\end_layout
+
+\begin_layout Plain Layout
+
+[herecura]
+\end_layout
+
+\begin_layout Plain Layout
+
+Server = https://repo.herecura.be/herecura/x86_64
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+h 
+\family typewriter
+pacman
+\family default
+ just like any other package!
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Installing Vivaldi
+\end_layout
+
+\begin_layout Subsection
+Colors
+\end_layout
+
+\begin_layout Definition
+Dracula colors
+\end_layout
+
+\begin_layout Definition
+The default colors of the Dracula Palette
+\end_layout
+
+\begin_layout Definition
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+HEX
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" bottomline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+256
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+pink
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+#FF79C6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+212
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+purple
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+#BD93F9
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+141
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+bare_focus
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+#44475A
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+242
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Browsers
+\end_layout
+
+\begin_layout Definition
+Non-Functioning brosers
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+dillo (can't play youtube)
+\end_layout
+
+\begin_layout Itemize
+netsurf(cant play youtube)
+\end_layout
+
+\begin_layout Itemize
+vimb(opens youtube, no adblock)
+\end_layout
+
+\begin_layout Itemize
+otter (very slow)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Definition
+Functioning browsers
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Gecko
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Firefox
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Blink
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Vivaldi
+\end_layout
+
+\begin_layout Itemize
+Chromium
+\end_layout
+
+\begin_layout Itemize
+Opera
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+luakit (default vim, default adblock)
+\end_layout
+
+\begin_layout Itemize
+min (no-vim)
+\end_layout
+
+\begin_layout Itemize
+midori (default adblock, no vim)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Mathematics
+\end_layout
+
+\begin_layout Section
+Pure Analysis
+\end_layout
+
+\begin_layout Section
+Linear Algebra
+\end_layout
+
+\begin_layout Section
+Numerical Analysis
+\end_layout
+
+\begin_layout Part
+Linguistics
+\end_layout
+
+\begin_layout Section
+Latin
+\end_layout
+
+\begin_layout Subsection
+French
+\end_layout
+
+\begin_layout Subsection
+German
+\end_layout
+
+\begin_layout Section
+Slavic
+\end_layout
+
+\begin_layout Subsection
+Russian
+\end_layout
+
+\begin_layout Part
+Rapid-Acquisition
+\end_layout
+
+\begin_layout Standard
+The Rapid-Acquisition-Strategy is developed as the omnipotent, high-performance
+ learning strategy.
+ It:
+\end_layout
+
+\begin_layout Itemize
+is applicable to the acquisition of any skill
+\end_layout
+
+\begin_layout Itemize
+maximizes learning efficiency
+\end_layout
+
+\begin_layout Standard
+RAS performs stage-wise acquisition of the skill, these are in their strict
+ orders:
+\end_layout
+
+\begin_layout Enumerate
+Stage 0: Preliminaries
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The acquisition target is defined
+\end_layout
+
+\begin_layout Enumerate
+The acquisition duration is defined
+\end_layout
+
+\begin_layout Enumerate
+the acquisition priority is defined
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+The time urgency is defined based on previous point
+\end_layout
+
+\begin_layout Enumerate
+Relevance for career is defined
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+For studies, these definitions are:
+\end_layout
+
+\begin_layout Enumerate
+The acquisition subject
+\end_layout
+
+\begin_layout Enumerate
+Time until exam
+\end_layout
+
+\begin_layout Enumerate
+relevance for future career
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Stage 1: Retrieval
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Formula $x_{1}=x=2$
+\end_inset
+
+ hours:
+\end_layout
+
+\begin_layout Itemize
+All Topics collected
+\end_layout
+
+\begin_layout Itemize
+Relevant data (ex, scriptum) collected
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Stage 1: Collection
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Formula $x_{2}=10x=20$
+\end_inset
+
+ (2 working days)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+can identity relevant materials
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+with other systematic relevant meterial, study them (need synchronization
+ with actual material)
+\end_layout
+
+\begin_layout Enumerate
+study with other YouTube courses
+\end_layout
+
+\begin_layout Enumerate
+study with wikipedia
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Stage 2: Reinforcement
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Revisit
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $x_{3}=5x=10$
+\end_inset
+
+ hours
+\end_layout
+
+\begin_layout Itemize
+First Application (solve ex for first time)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Stage 3:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+second round of application (ex solving)
+\end_layout
+
+\begin_layout Itemize
+summary completed
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Stage 4: Final Touch
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Final review
+\end_layout
+
+\begin_layout Itemize
+Exam ready
+\end_layout
+
+\begin_layout Itemize
+Revisit this step for any future revisits
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Separator plain
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Rapid Acquisition Test Trial: I-Branch
+\end_layout
+
+\begin_layout Enumerate
+Timespan: Tue, 23.
+ Mar, 2021 - projected until 13.
+ Apr, 2021
+\end_layout
+
+\begin_layout Enumerate
+Acquisition target
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Primary Targets:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Databank (personal motivation)
+\end_layout
+
+\begin_layout Enumerate
+Network (personal motivation)
+\end_layout
+
+\begin_layout Enumerate
+Parallel Programming (assumed easier, given knowlege in HPC1)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Auxilliary Targets:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Statistical Learning Theory (no academic pressure, watched during meals)
+\end_layout
+
+\begin_layout Enumerate
+HPC2 (with previous knowledge)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+btprint "btPrintCited"
+bibfiles "bib/references"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

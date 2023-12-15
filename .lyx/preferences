@@ -8,11 +8,14 @@ Format 24
 # MISC SECTION ######################################
 #
 
+# Display graphics within LyX
+# true|false
+\display_graphics false
 # Group layouts by their category.
 \group_layouts false
 \kbmap_primary "american"
 \kbmap_secondary "european"
-\serverpipe "/home/shengdi/.lyx/lyxpipe"
+\serverpipe "~/.lyx/lyxpipe"
 \user_name "Shengdi Chen"
 \user_email "shc@Thi.nX"
 
@@ -28,7 +31,8 @@ Format 24
 \screen_font_roman "Constantia"
 \screen_font_sans "Avenir LT Std"
 \screen_font_typewriter "Source Code Pro"
-\screen_font_sizes 5 7 8 9 10 12 14.4 17.26 20.74 24.88
+\screen_font_sizes 5 7 8 9 10 12 15 23 29 37
+\open_buffers_in_tabs false
 \single_close_tab_button true
 
 #
@@ -40,11 +44,11 @@ Format 24
 \set_color "foreground" "#ede3f7"
 \set_color "selection" "#44475a"
 \set_color "latex" "#bd93f9"
-\set_color "preview" "#000000"
+\set_color "preview" "#bd93f9"
 \set_color "note" "#ffff00"
-\set_color "notebg" "#ffff00"
-\set_color "commentbg" "#faf0e6"
-\set_color "greyedoutbg" "#faf0e6"
+\set_color "notebg" "#000000"
+\set_color "commentbg" "#000000"
+\set_color "greyedoutbg" "#000000"
 \set_color "shaded" "#55ff00"
 \set_color "listingsbg" "#000000"
 \set_color "urllabel" "#8be9fd"
@@ -53,13 +57,13 @@ Format 24
 \set_color "language" "#0000ff"
 \set_color "command" "#8be9fd"
 \set_color "special" "#ff5555"
-\set_color "graphicsbg" "#faf0e6"
+\set_color "graphicsbg" "#ffffff"
 \set_color "math" "#ff79c6"
 \set_color "mathbg" "#000000"
 \set_color "mathframe" "#ffffff"
 \set_color "mathcorners" "#ff79c6"
 \set_color "mathline" "#ff79c6"
-\set_color "collapsible" "#ffffff"
+\set_color "collapsible" "#8b0000"
 \set_color "collapsibleframe" "#ede3f7"
 \set_color "insetframe" "#cd5c5c"
 \set_color "error" "#ff0000"
@@ -71,6 +75,7 @@ Format 24
 \set_color "buttonframe" "#ede3f7"
 \set_color "buttonbg" "#000000"
 \set_color "buttonhoverbg" "#44475a"
+\set_color "previewframe" "#55ffff"
 
 #
 # PRINTER SECTION ###################################
@@ -134,6 +139,8 @@ Format 24
 \format "oocalc" "ods" "OpenDocument spreadsheet" "" "" "auto" "document" "application/vnd.oasis.opendocument.spreadsheet"
 \format "pbm" "pbm" "PBM" "" "xdg-open" "auto" "" "image/x-portable-bitmap"
 \format "pdf5" "pdf" "PDF (LuaTeX)" "u" "zathura" "" "document,vector,menu=export" ""
+\format "pdf2" "pdf" "PDF (pdflatex)" "F" "zathura" "" "document,vector,menu=export" ""
+\format "pdf4" "pdf" "PDF (XeTeX)" "X" "zathura" "" "document,vector,menu=export" ""
 \format "pgm" "pgm" "PGM" "" "xdg-open" "auto" "" "image/x-portable-graymap"
 \format "png" "png" "PNG" "" "xdg-open" "auto" "" "image/x-png"
 \format "ppm" "ppm" "PPM" "" "xdg-open" "auto" "" "image/x-portable-pixmap"
