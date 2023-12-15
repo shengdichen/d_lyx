@@ -139,6 +139,8 @@ Format 24
 \format "oocalc" "ods" "OpenDocument spreadsheet" "" "" "auto" "document" "application/vnd.oasis.opendocument.spreadsheet"
 \format "pbm" "pbm" "PBM" "" "xdg-open" "auto" "" "image/x-portable-bitmap"
 \format "pdf5" "pdf" "PDF (LuaTeX)" "u" "zathura" "" "document,vector,menu=export" ""
+\format "pdf2" "pdf" "PDF (pdflatex)" "F" "zathura" "" "document,vector,menu=export" ""
+\format "pdf4" "pdf" "PDF (XeTeX)" "X" "zathura" "" "document,vector,menu=export" ""
 \format "pgm" "pgm" "PGM" "" "xdg-open" "auto" "" "image/x-portable-graymap"
 \format "png" "png" "PNG" "" "xdg-open" "auto" "" "image/x-png"
 \format "ppm" "ppm" "PPM" "" "xdg-open" "auto" "" "image/x-portable-pixmap"
