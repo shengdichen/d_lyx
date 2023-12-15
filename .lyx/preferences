@@ -8,6 +8,9 @@ Format 24
 # MISC SECTION ######################################
 #
 
+# Display graphics within LyX
+# true|false
+\display_graphics false
 # Group layouts by their category.
 \group_layouts false
 \kbmap_primary "american"
