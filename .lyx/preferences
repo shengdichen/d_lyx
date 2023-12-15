@@ -10,7 +10,8 @@ Format 24
 
 # Group layouts by their category.
 \group_layouts false
-\kbmap true
+\kbmap_primary "american"
+\kbmap_secondary "european"
 \serverpipe "/home/shengdi/.lyx/lyxpipe"
 \user_name "Shengdi Chen"
 \user_email "shc@Thi.nX"
@@ -22,6 +23,7 @@ Format 24
 \screen_zoom 197
 \cursor_follows_scrollbar true
 \cursor_width 2
+\paragraph_markers true
 \macro_edit_style 1
 \screen_font_roman "Constantia"
 \screen_font_sans "Avenir LT Std"
@@ -106,6 +108,7 @@ Format 24
 # LANGUAGE SUPPORT SECTION ##########################
 #
 
+\spellcheck_continuously true
 
 #
 # 2nd MISC SUPPORT SECTION ##########################
@@ -141,6 +144,7 @@ Format 24
 \format "xbm" "xbm" "XBM" "" "xdg-open" "auto" "" "image/x-xbitmap"
 \format "xpm" "xpm" "XPM" "" "xdg-open" "auto" "" "image/x-xpixmap"
 \default_otf_view_format pdf5
+\default_view_format pdf5
 
 #
 # CONVERTERS SECTION ##########################
