@@ -5,6 +5,9 @@ Format 5
 
 \unbind "Next" "screen-down"
 \unbind "Prior" "screen-up"
+\unbind "C-equal" "buffer-zoom-in"
+\unbind "C-minus" "buffer-zoom-out"
+\unbind "C-plus" "buffer-zoom-in"
 
 \bind "M-Next" "paragraph-move-down"
 \bind "M-Prior" "paragraph-move-up"
