@@ -1,7 +1,7 @@
-# LyX 2.3.8 generated this file. If you want to make your own
+# LyX 2.4.0 generated this file. If you want to make your own
 # modifications you should do them from inside LyX and save.
 
-Format 24
+Format 38
 
 
 #
@@ -18,6 +18,7 @@ Format 24
 \serverpipe "~/.lyx/lyxpipe"
 \user_name "Shengdi Chen"
 \user_email "shc@Thi.nX"
+\user_initials ""
 
 #
 # SCREEN & FONTS SECTION ############################
@@ -39,54 +40,55 @@ Format 24
 # COLOR SECTION ###################################
 #
 
-\set_color "cursor" "#97879f"
-\set_color "background" "#000000"
-\set_color "foreground" "#efe3fb"
-\set_color "selection" "#433f4b"
-\set_color "latex" "#ef77c7"
-\set_color "preview" "#bd93f9"
-\set_color "note" "#97879f"
-\set_color "notebg" "#000000"
-\set_color "comment" "#97879f"
-\set_color "commentbg" "#000000"
-\set_color "greyedout" "#97879f"
-\set_color "greyedouttext" "#97879f"
-\set_color "greyedoutbg" "#000000"
-\set_color "shaded" "#55ff00"
-\set_color "listingsbg" "#000000"
-\set_color "footlabel" "#97879f"
-\set_color "indexlabel" "#97879f"
-\set_color "marginlabel" "#97879f"
-\set_color "phantomtext" "#97879f"
-\set_color "urllabel" "#97879f"
-\set_color "urltext" "#efe3fb"
-\set_color "depthbar" "#433f4b"
-\set_color "language" "#7fd7f3"
-\set_color "command" "#97879f"
-\set_color "commandbg" "#000000"
-\set_color "commandframe" "#000000"
-\set_color "special" "#ef77c7"
-\set_color "graphicsbg" "#ffffff"
-\set_color "math" "#a787f7"
-\set_color "mathbg" "#000000"
-\set_color "mathframe" "#433f4b"
-\set_color "mathcorners" "#97879f"
-\set_color "mathline" "#433f4b"
-\set_color "collapsible" "#97879f"
-\set_color "collapsibleframe" "#433f4b"
-\set_color "insetframe" "#97879f"
-\set_color "error" "#97879f"
-\set_color "added_space" "#97879f"
-\set_color "changebar" "#0000ff"
-\set_color "tabularline" "#97879f"
-\set_color "tabularonoffline" "#97879f"
-\set_color "newpage" "#97879f"
-\set_color "pagebreak" "#97879f"
-\set_color "buttonframe" "#433f4b"
-\set_color "buttonbg" "#000000"
-\set_color "buttonhoverbg" "#44475a"
-\set_color "paragraphmarker" "#97879f"
-\set_color "previewframe" "#55ffff"
+\set_color "cursor" "#97879f" "#97879f"
+\set_color "background" "#000000" "#000000"
+\set_color "foreground" "#efe3fb" "#efe3fb"
+\set_color "selection" "#433f4b" "#433f4b"
+\set_color "latex" "#ef77c7" "#ef77c7"
+\set_color "preview" "#bd93f9" "#bd93f9"
+\set_color "note" "#97879f" "#97879f"
+\set_color "notebg" "#000000" "#000000"
+\set_color "comment" "#97879f" "#97879f"
+\set_color "commentbg" "#000000" "#000000"
+\set_color "greyedout" "#97879f" "#97879f"
+\set_color "greyedouttext" "#97879f" "#97879f"
+\set_color "greyedoutbg" "#000000" "#000000"
+\set_color "shaded" "#55ff00" "#55ff00"
+\set_color "listingsbg" "#000000" "#000000"
+\set_color "footlabel" "#97879f" "#97879f"
+\set_color "indexlabel" "#97879f" "#97879f"
+\set_color "marginlabel" "#97879f" "#97879f"
+\set_color "phantomtext" "#97879f" "#97879f"
+\set_color "urllabel" "#97879f" "#97879f"
+\set_color "urltext" "#efe3fb" "#efe3fb"
+\set_color "depthbar" "#433f4b" "#433f4b"
+\set_color "language" "#7fd7f3" "#7fd7f3"
+\set_color "command" "#97879f" "#97879f"
+\set_color "commandbg" "#000000" "#000000"
+\set_color "commandframe" "#000000" "#000000"
+\set_color "special" "#ef77c7" "#ef77c7"
+\set_color "graphicsbg" "#ffffff" "#ffffff"
+\set_color "math" "#a787f7" "#a787f7"
+\set_color "mathbg" "#000000" "#000000"
+\set_color "mathmacroblend" "#ffff00" "#ffff00"
+\set_color "mathframe" "#433f4b" "#433f4b"
+\set_color "mathcorners" "#97879f" "#97879f"
+\set_color "mathline" "#433f4b" "#433f4b"
+\set_color "collapsible" "#97879f" "#97879f"
+\set_color "collapsibleframe" "#433f4b" "#433f4b"
+\set_color "insetframe" "#97879f" "#97879f"
+\set_color "error" "#97879f" "#97879f"
+\set_color "added_space" "#97879f" "#97879f"
+\set_color "changebar" "#0000ff" "#0000ff"
+\set_color "tabularline" "#97879f" "#97879f"
+\set_color "tabularonoffline" "#97879f" "#97879f"
+\set_color "newpage" "#97879f" "#97879f"
+\set_color "pagebreak" "#97879f" "#97879f"
+\set_color "buttonframe" "#433f4b" "#433f4b"
+\set_color "buttonbg" "#000000" "#000000"
+\set_color "buttonhoverbg" "#44475a" "#44475a"
+\set_color "paragraphmarker" "#97879f" "#97879f"
+\set_color "previewframe" "#55ffff" "#55ffff"
 
 #
 # PRINTER SECTION ###################################
@@ -124,7 +126,7 @@ Format 24
 # LANGUAGE SUPPORT SECTION ##########################
 #
 
-\spellcheck_continuously true
+\language_custom_package ""
 
 #
 # 2nd MISC SUPPORT SECTION ##########################
